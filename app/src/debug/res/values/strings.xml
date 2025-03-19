@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<<<<<<< HEAD
+    <string name="app_launcher_name">Homoglyph Keyboard</string>
+=======
+    <string name="app_launcher_name">Keyboard_debug</string>
+>>>>>>> origin/main
+</resources>
