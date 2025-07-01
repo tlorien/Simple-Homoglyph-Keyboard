@@ -11,10 +11,6 @@ This app operates without internet access, offering more privacy, security, and 
 
 <a href="https://f-droid.org/packages/com.tlorien.keyboard">Get it on F-Droid</a>
 
-Support the development:  
-- **PayPal**: [Donate via PayPal](https://paypal.me/SimpleMobileTools?country.x=SK&locale.x=en_US)
-- **Patreon**: [Support on Patreon](https://www.patreon.com/tiborkaputa)
-
 <div style="display:flex;">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.jpeg" width="30%">
